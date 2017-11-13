@@ -1,0 +1,9 @@
+#first example code for Packet Squirrel.
+#It is every basic.  
+#!/bin/bash
+
+LED SETUP
+NETMODE TRANSPARENT
+sleep 5
+
+LED ATTACK
